@@ -49,5 +49,5 @@ public class Pet {
     public Float getPeso() {
         return peso;
     }
-    
+
 }
